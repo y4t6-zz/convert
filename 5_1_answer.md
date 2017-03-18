@@ -10,3 +10,4 @@ arr.push(function() {
 
 arr[2](); // "a","b",function
 ```
+[task](https://github.com/y4t6/convert/blob/master/5_1.md)
